@@ -1,0 +1,52 @@
+body{
+    background: rgb(44,24,81);
+background: radial-gradient(circle, rgba(44,24,81,1) 0%, rgba(3,2,6,1) 100%);
+}
+#sobre{
+    background-color: #151A24;
+    border-radius: 30px;
+}
+
+#sobre p{
+    color: white;
+}
+p{
+    font-family: 'Trebuchet MS';
+}
+#sobremimfoto{
+    margin-bottom: 40px;
+}
+
+h2{
+    color: white;
+    font-family:Impact;
+    font-size: 300%;
+}
+#experiencia p{
+    color: white;
+}
+#experiencia h5{
+    color: rgb(194, 0, 161);
+}
+#contato label{
+    color: rgb(194, 0, 161);
+}
+
+.blur-on-hover {
+    transition: filter 0.3s ease;
+}
+
+.blur-on-hover:hover {
+    filter: blur(5px);
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+}
+
+#habilidades h5{
+    font-size: 200%;
+}
