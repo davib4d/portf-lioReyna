@@ -1,0 +1,33 @@
+body{
+    background: rgb(44,24,81);
+background: radial-gradient(circle, rgba(44,24,81,1) 0%, rgba(3,2,6,1) 100%);
+}
+#sobre{
+    background-color: #151A24;
+    border-radius: 30px;
+}
+
+#sobre p{
+    color: white;
+}
+p{
+    font-family: 'Trebuchet MS';
+}
+#sobremimfoto{
+    margin-bottom: 40px;
+}
+
+h2{
+    color: white;
+    font-family:Impact;
+    font-size: 300%;
+}
+#experiencia p{
+    color: white;
+}
+#experiencia h5{
+    color: gray;
+}
+#contato label{
+    color: aliceblue;
+}
